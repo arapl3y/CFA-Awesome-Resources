@@ -29,6 +29,8 @@
 * [The Odin Project: Ruby](http://www.theodinproject.com/courses/ruby-programming)
 
 ## Git
+
+### Beginner
 * [Try Git](https://try.github.io/levels/1/challenges/1) - Interactive Tutorials to learn Git
 * [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/) - Simple guide to get started with Git
 
