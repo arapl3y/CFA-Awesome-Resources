@@ -12,6 +12,7 @@
 * [The Ruby Toolbox](https://www.ruby-toolbox.com/) - Huge array of Ruby related tools
 * [Try Ruby](http://tryruby.org/levels/1/challenges/0) - Learn the basics of Ruby
 * [Ruby Letter](http://www.rubyletter.com/) - Weekly Emails on all things Ruby
+* [Ruby Fiddle](http://rubyfiddle.com/)
 
 
 ### Intermediate
@@ -27,6 +28,7 @@
 
 ### Courses
 * [The Odin Project: Ruby](http://www.theodinproject.com/courses/ruby-programming)
+* [Upskill: Full Stack Ruby on Rails Development](http://upskillcourses.com/p/essential-web-developer-course)
 
 ## Git
 
@@ -34,20 +36,27 @@
 * [Try Git](https://try.github.io/levels/1/challenges/1) - Interactive Tutorials to learn Git
 * [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/) - Simple guide to get started with Git
 
-## HTML/CSS/Design
+## HTML
 
 ### Beginnner
 * [HTML5 Cheat Sheet](http://www.hostingreviewbox.com/html5-cheat-sheet/)
+
+## CSS
+
+### Beginner
 * [CSS Tricks](https://css-tricks.com/)
 * [How to Center Anything with CSS](https://codemyviews.com/blog/how-to-center-anything-with-css)
 * [Google: Material Design](https://material.io/)
 * [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [CSS Zen Garden](http://www.csszengarden.com/)
 
 ### Intermediate
-* [CSS Zen Garden](http://www.csszengarden.com/)
-* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Flexbox Grid](http://flexboxgrid.com/a)
-* [Boomkrak: Design Tools](http://boomkrak.com/)
 * [Flexbox Explained in Gifs](https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.8gqu59tvb)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
+
+
+## Design
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Boomkrak: Design Tools](http://boomkrak.com/)
