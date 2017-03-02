@@ -40,8 +40,14 @@
 * [HTML5 Cheat Sheet](http://www.hostingreviewbox.com/html5-cheat-sheet/)
 * [CSS Tricks](https://css-tricks.com/)
 * [How to Center Anything with CSS](https://codemyviews.com/blog/how-to-center-anything-with-css)
+* [Google: Material Design](https://material.io/)
+* [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 
 ### Intermediate
 * [CSS Zen Garden](http://www.csszengarden.com/)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Flexbox Grid](http://flexboxgrid.com/a)
+* [Boomkrak: Design Tools](http://boomkrak.com/)
+* [Flexbox Explained in Gifs](https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.8gqu59tvb)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
